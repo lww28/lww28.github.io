@@ -1,7 +1,7 @@
 ---
 title: "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2025-01-01-skewscore
 excerpt: "Introduces SkewScore, a novel method for discovering causal directions under heteroscedastic symmetric noise using score function skewness."
 venue: "ICLR 2025"
