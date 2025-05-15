@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024-11-01-skewscore
 excerpt: "Introduces SkewScore, a novel method for discovering causal directions under heteroscedastic symmetric noise using score function skewness."
-venue: "ICLR 2025"
-date: 2024-11-01
+venue: "ICLR"
+date: 2025-01-01
 paperurl: /files/A_Skewness_Based_Criterion.pdf
 externalurl: https://openreview.net/pdf?id=zGzs5SIwT8
 citation: 'Yingyu Lin, Yuxing Huang, Wenqin Liu, Haoran Deng, Ignavier Ng, Kun Zhang, Mingming Gong, Yi-An Ma, Biwei Huang. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." <i>ICLR 2025</i>.'
