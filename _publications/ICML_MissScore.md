@@ -1,8 +1,8 @@
 ---
 title: "MissScore: High-Order Score Estimation in the Presence of Missing Data"
 collection: publications
-category: Conference
-permalink: /publication/2025-01-01-missscore
+category: conferences
+permalink: /publication/2025-05-01-missscore
 excerpt: "MissScore addresses causal discovery with missing data via high-order score estimation and robust score matching."
 venue: "ICML 2025"
 data: 2025-05-01
