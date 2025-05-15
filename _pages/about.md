@@ -35,9 +35,6 @@ In 2024–2025, I had the opportunity to visit UC San Diego, working under the g
 - **Visiting Student Researcher**, UC San Diego (2024–2025)  
   Co-led skewness-based score research under Prof. Biwei Huang. Focused on both theoretical justifications and empirical evaluations.
 
-- **Research Intern**, OPPO Research Institute, Beijing (2022)  
-  Created facial image synthesis tools using GANs. Bridged research ideas to production-level tools.
-
 - **Academic Tutor**, University of Melbourne (2023–Present)  
   Designed and taught tutorials and assessments for *Statistical Modelling*, *Decision Making*, and *Machine Learning* postgraduate courses.
 
@@ -45,7 +42,7 @@ In 2024–2025, I had the opportunity to visit UC San Diego, working under the g
 
 ### 📄 Publications
 - Liu et al. "MissScore: High-Order Score Estimation in the Presence of Missing Data." *ICML 2025*
-- Liu*, Lin* et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
+- Lin*, Liu*, et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
 - Liu et al. "Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models." *CLeaR 2024*
 
 For a complete list, visit the [publications page](/publications).
