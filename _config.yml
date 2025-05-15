@@ -9,13 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenqin"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+title                    : "Wenqin Liu"
+subtitle                 : "PhD Student in Causal Discovery & Machine Learning" 
+# title_separator          : "-"
+name                     : Wenqin Liu
+description              : "  Personal academic website of Wenqin Liu, PhD student at the University of Melbourne, focusing on Causal Discovery, Machine Learning, and Generative Modeling."
+url                      : https://lww28.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lww28/lww28.github.io"
+
+title: Wenqin Liu # Your name
+# subtitle: PhD Student in Causal Discovery & Machine Learning # Optional subtitle
+name: Wenqin Liu
+email: wenqinl@student.unimelb.edu.au
+description: >- # Description displayed in search engine results
+  Personal academic website of Wenqin Liu, PhD student at the University of Melbourne,
+  focusing on Causal Discovery, Machine Learning, and Generative Modeling.
+avatar: # "/images/your-profile-pic.jpg" # Optional: path to your profile picture (upload image to images folder)
+favicon: # "/images/favicon.png" # Optional: site favicon
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
