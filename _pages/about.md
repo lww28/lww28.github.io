@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Wenqin Liu**, a PhD candidate in Science at the University of Melbourne. My research lies at the intersection of **causal discovery**, **machine learning**, and **spatiotemporal generative modeling**. I aim to develop **robust and identifiable learning frameworks** that advance our understanding of dynamic, uncertain systems — from theoretical foundations to real-world applications.
+Welcome! I am Wenqin Liu, a Ph.D. candidate in Science at the University of Melbourne, where I am advised by Dr. Mingming Gong, Prof. Howard Bondell, and Dr. Qiuhong Ke. My research lies at the intersection of **causal discovery**, **machine learning**, and **spatiotemporal modeling**, with a particular focus on developing robust and identifiable frameworks for complex, dynamic systems.
+
+In 2024–2025, I had the privilege of visiting **UC San Diego**, where I worked closely with **Prof. Biwei Huang**. This experience has greatly enriched my perspective and continues to influence the direction and impact of my research.
 
 ---
 
