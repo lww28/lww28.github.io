@@ -59,7 +59,7 @@ For a complete list, visit the [publications page](/publications).
 ---
 
 ### 🏆 Honors & Awards
-- Melbourne Global Scholars Award 2017
+- Melbourne Global Scholars Award 2018
 - Melbourne Research Scholarship 2022
 - Professor Maurice Belz Scholarship 2024
 
