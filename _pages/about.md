@@ -21,7 +21,7 @@ In 2024–2025, I had the valuable opportunity to visit UC San Diego, working un
 
 - **Master of Data Science**, University of Melbourne (2020–2022)  
   First Class Honours – *Thesis: Multimodal Representation Learning for Volatility Forecasting*
-  Supervisors: Dr. Mingming Gong
+  Supervisor: Dr. Mingming Gong
   
 - **Bachelor of Commerce**, University of Melbourne (2016–2018)  
   Majors: *Actuarial Studies, Finance*
