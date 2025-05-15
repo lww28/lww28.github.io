@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenqin Liu - Personal Page"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Wenqin Liu"
 description              : "Personal academic website of Wenqin Liu, PhD student at the University of Melbourne, focusing on Causal Discovery, Machine Learning, and Generative Modeling."
