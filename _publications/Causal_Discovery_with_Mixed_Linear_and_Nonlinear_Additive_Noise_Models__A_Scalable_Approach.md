@@ -1,10 +1,9 @@
 ---
 title: "Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models: A Scalable Approach"
 collection: publications
-category: manuscripts
+category: Conference
 permalink: /publication/2024-01-01-lnmix
 excerpt: "A scalable score-matching-based method for causal discovery under mixed linear and nonlinear additive noise models."
-date: 2024-01-01
 venue: "CLeaR 2024"
 paperurl: /files/Causal_Discovery_with_Mixed_Linear_and_Nonlinear_Additive_Noise_Models__A_Scalable_Approach.pdf
 externalurl: https://proceedings.mlr.press/v236/liu24b/liu24b.pdf
