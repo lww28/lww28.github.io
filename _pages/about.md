@@ -20,7 +20,8 @@ In 2024–2025, I had the privilege of visiting **UC San Diego**, where I worked
 
 - **Master of Data Science**, University of Melbourne (2020–2022)  
   First Class Honours – *Thesis: Multimodal Representation Learning for Volatility Forecasting*
-
+  Supervisors: Dr. Mingming Gong
+  
 - **Bachelor of Commerce**, University of Melbourne (2016–2018)  
   Majors: *Actuarial Studies, Finance*
 
@@ -41,9 +42,9 @@ In 2024–2025, I had the privilege of visiting **UC San Diego**, where I worked
 
 ---
 
-### 📄 Selected Publications
-- Liu*, Lin* et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
+### 📄 Publications
 - Liu et al. "MissScore: High-Order Score Estimation in the Presence of Missing Data." *ICML 2025*
+- Liu*, Lin* et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
 - Liu et al. "Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models." *CLeaR 2024*
 
 For a complete list, visit the [publications page](/publications).
@@ -57,9 +58,9 @@ For a complete list, visit the [publications page](/publications).
 ---
 
 ### 🏆 Honors & Awards
-- Melbourne Research Scholarship
-- Melbourne Global Scholars Award
-- Professor Maurice Belz Scholarship
+- Melbourne Global Scholars Award 2017
+- Melbourne Research Scholarship 2022
+- Professor Maurice Belz Scholarship 2024
 
 ---
 
