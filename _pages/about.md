@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am Wenqin Liu, a Ph.D. candidate in Science at the University of Melbourne, where I am advised by [Dr. Mingming Gong](https://mingming-gong.github.io/), [Prof. Howard Bondell](https://findanexpert.unimelb.edu.au/profile/600991-howard-bondell), and [Dr. Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke). My research lies at the intersection of **causal discovery**, **machine learning**, and **spatiotemporal modeling**, with a particular focus on developing robust and identifiable frameworks for complex, dynamic systems.
 
-In 2024–2025, I had the privilege of visiting **UC San Diego**, where I worked closely with [Prof. Biwei Huang](https://biweihuang.com). This experience has greatly enriched my perspective and continues to influence the direction and impact of my research.
+In 2024–2025, I had the opportunity to visit UC San Diego, working under the guidance of [Prof. Biwei Huang](https://biweihuang.com). This learning experience has been deeply valuable in advancing my Ph.D. research.
 
 ---
 
@@ -30,7 +30,7 @@ In 2024–2025, I had the privilege of visiting **UC San Diego**, where I worked
 
 ### 🧪 Research Experience
 - **PhD Researcher**, University of Melbourne  
-  Leading research on *SkewScore* and *MissScore* — novel methods for causal discovery under heteroscedastic noise and missingness. Developed a theoretical framework for latent spatiotemporal PDEs.
+  Developing causal discovery methods that handle challenges such as heteroscedasticity and missing data, and building theoretical frameworks for modeling latent spatiotemporal dynamics using partial differential equations.
 
 - **Visiting Student Researcher**, UC San Diego (2024–2025)  
   Co-led skewness-based score research under Prof. Biwei Huang. Focused on both theoretical justifications and empirical evaluations.
