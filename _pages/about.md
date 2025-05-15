@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am Wenqin Liu, a Ph.D. candidate in Science at the University of Melbourne, where I am advised by [Dr. Mingming Gong](https://mingming-gong.github.io/), [Prof. Howard Bondell](https://findanexpert.unimelb.edu.au/profile/600991-howard-bondell), and [Dr. Qiuhong Ke](https://research.monash.edu/en/persons/qiuhong-ke). My research lies at the intersection of **causal discovery**, **machine learning**, and **spatiotemporal modeling**, with a particular focus on developing robust and identifiable frameworks for complex, dynamic systems.
 
-In 2024–2025, I had the opportunity to visit UC San Diego, working under the guidance of [Prof. Biwei Huang](https://biweihuang.com). This learning experience has been deeply valuable in advancing my Ph.D. research.
+In 2024–2025, I had the valuable opportunity to visit UC San Diego, working under the guidance of [Prof. Biwei Huang](https://biweihuang.com). This experience has been instrumental in shaping my thinking around methodological rigor and new directions in causal modeling.
 
 ---
 
