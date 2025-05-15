@@ -42,7 +42,6 @@ In 2024–2025, I had the valuable opportunity to visit UC San Diego, working un
 
 ### 📄 Publications
 - Liu et al. "MissScore: High-Order Score Estimation in the Presence of Missing Data." *ICML 2025*
-- Lin\*, Liu\*, et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
 - Liu et al. "Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models." *CLeaR 2024*
 
 For a complete list, visit the [publications page](/publications).
