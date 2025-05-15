@@ -42,7 +42,7 @@ In 2024–2025, I had the opportunity to visit UC San Diego, working under the g
 
 ### 📄 Publications
 - Liu et al. "MissScore: High-Order Score Estimation in the Presence of Missing Data." *ICML 2025*
-- Lin*, Liu*, et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
+- Lin\*, Liu\*, et al. "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery." *ICLR 2025*
 - Liu et al. "Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models." *CLeaR 2024*
 
 For a complete list, visit the [publications page](/publications).
@@ -66,4 +66,8 @@ For a complete list, visit the [publications page](/publications).
 - Email: [wenqinl@student.unimelb.edu.au](mailto:wenqinl@student.unimelb.edu.au)
 - GitHub: [lww28](https://github.com/lww28)
 
-Explore the tabs to learn more about my work in **research**, **teaching**, and **academic writing**. Thank you for visiting!
+Explore the tabs to learn more about my work in research, teaching, and academic writing. I'm always open to research collaborations and discussions. If you're interested in working together, please don't hesitate to get in touch.
+
+Thank you for visiting!
+
+
